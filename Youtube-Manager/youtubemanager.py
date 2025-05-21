@@ -54,7 +54,7 @@ def main():
         print("4.Delete the video")
         print("5.Exit")
 
-        choice=input("Enter a number")
+        choice=input("Enter a number :")
         print(videos)
         match choice:
             case '1':
